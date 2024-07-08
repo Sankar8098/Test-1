@@ -48,10 +48,6 @@
 <b><details><summary>Tap On Me For Demo Bot</summary></b>
 
 <img src="https://graph.org/file/bb9c59043c52072e8dc93.jpg" alt="Bot Demo">
-<img src="https://graph.org/file/295e41dfab93acf42a111.jpg" alt="Bot Demo">
-<img src="https://graph.org/file/ccc1b6ab4967a7d155ab8.jpg" alt="Bot Demo">
-<img src="https://graph.org/file/75db5257c39436b734b49.jpg" alt="Bot Demo">
-<img src="https://graph.org/file/1ce62a17012ed5723aaca.jpg" alt="Bot Demo">
 </details>
 
 ## Command To Use Bot
