@@ -7,13 +7,13 @@
 import requests
 import json
 from motor.motor_asyncio import AsyncIOMotorClient
-from config import Clone_DB_URI, DB_NAME
+from config import CLONE_DB_URI, DB_NAME
 
 # Don't Remove Credit Tg - @TonyStark_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@TonyStarkBotz
 # Ask Doubt on telegram @TonyStarkBotzXBotz
 
-client = AsyncIOMotorClient(Clone_DB_URI)
+client = AsyncIOMotorClient(CLONE_DB_URI)
 db = client[DB_NAME]
 col = db["users"]
 
